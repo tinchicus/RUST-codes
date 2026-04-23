@@ -1,0 +1,3 @@
+[workspace]
+members = ["mi_crate","app"]
+resolver = "1"
