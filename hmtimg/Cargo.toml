@@ -1,0 +1,14 @@
+[package]
+name = "hmtimg"
+version = "0.1.0"
+edition = "2024"
+description = "Herramienta para imagenes de prueba"
+license = "MIT"
+
+[package.metadata.deb]
+maintainer = "Tinchicus <webmaster@tinchicus.com>"
+priority = "optional"
+section = "utilities"
+
+[dependencies]
+image = "0.25.10"
